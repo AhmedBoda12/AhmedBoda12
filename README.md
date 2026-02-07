@@ -16,8 +16,9 @@ Mobile App Developer and Tester | Specializing in cross-platform apps, GIS/mappi
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-128BD5?style=for-the-badge&logo=esri&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-8C52DC?style=for-the-badge&logo=appium&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red)
-![Postman](https://img.shields.io/badge/Postmant-orange)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com/)
+
 
 
 ## 💼 Featured Projects
