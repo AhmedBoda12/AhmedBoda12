@@ -4,8 +4,8 @@ Software Engineer | Specializing in cross-platform apps, GIS/mapping, and QA tes
 
 ## 🚀 About Me
 - 🔭 Building GIS mobile apps with ESRI ArcGIS & Flutter.
-- 💻 Worked 1 year at **Alkan QSIT** on Flutter & .NET MAUI projects, including geospatial editing apps with ESRI Enterprise Portal 11.4.[cite:17]
-- 📚 Recently certified **ISTQB CTFL** for software testing excellence.[cite:19]
+- 💻 Worked 1 year at **Alkan QSIT** on Flutter & .NET MAUI projects, including geospatial editing apps with ESRI Enterprise Portal 11.4.
+- 📚 Recently certified **ISTQB CTFL** for software testing excellence.
 - 🎯 Passionate about automation testing (Appium, NUnit), offline sync, and humorous educational content.
 
 ## 🛠️ Tech Stack
