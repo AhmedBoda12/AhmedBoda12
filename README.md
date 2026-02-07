@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed! 👋
 
-Mobile App Developer and Tester | Specializing in cross-platform apps, GIS/mapping, and QA testing.
+Software Engineer | Specializing in cross-platform apps, GIS/mapping, and QA testing.
 
 ## 🚀 About Me
 - 🔭 Building GIS mobile apps with ESRI ArcGIS & Flutter.
@@ -18,12 +18,6 @@ Mobile App Developer and Tester | Specializing in cross-platform apps, GIS/mappi
 ![Appium](https://img.shields.io/badge/Appium-8C52DC?style=for-the-badge&logo=appium&logoColor=white)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://postman.com/)
-
-
-
-## 💼 Featured Projects
-- **GIS Mapping App**: Flutter + ESRI for map download/edit (private repo).
-- **MAUI Navigation Fix**: Troubleshot PushAsync & keyboard issues in cross-platform apps.[cite:18]
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abouelella-805896203/)
