@@ -16,6 +16,9 @@ Mobile App Developer and Tester | Specializing in cross-platform apps, GIS/mappi
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-128BD5?style=for-the-badge&logo=esri&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-8C52DC?style=for-the-badge&logo=appium&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red)
+![Postman](https://img.shields.io/badge/Postmant-orange)
+
 
 ## 💼 Featured Projects
 - **GIS Mapping App**: Flutter + ESRI for map download/edit (private repo).
